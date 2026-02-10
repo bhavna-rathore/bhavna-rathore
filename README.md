@@ -10,11 +10,17 @@
 
 ## 👩‍💼 About Me
 
-I am a passionate and detail-oriented Software Developer with 2+ years of professional experience building scalable and interactive web applications. I specialize in frontend development using React, TypeScript, and Material-UI, and have hands-on experience with backend systems including Node.js, PostgreSQL, and OpenSearch.
+I am a Software Developer with 2+ years of professional experience building scalable, production-grade web applications. My primary strength lies in frontend engineering using React, TypeScript, and modern UI frameworks, with solid exposure to backend systems.
 
-Currently based in Pune, I’ve worked on dynamic features such as editable grids, advanced form handling, and undo functionality. I enjoy writing clean, reusable code and delivering seamless user experiences.
+I’ve worked extensively on data-heavy and interaction-rich features such as editable grids, copy‑paste workflows, undo/redo logic, and complex form handling — including fixing edge‑case bugs discovered during QA and production usage.
 
-I am always eager to learn, grow, and contribute to innovative, impactful projects.
+I value code quality, performance, and clarity over flashy demos, and I prefer solving real problems over shipping superficial features.
+
+📍 Based in Pune, India
+
+💼 Currently working as a Software Developer
+
+🎯 Actively preparing for a role with deeper engineering ownership
 
 ---
 
